@@ -1,8 +1,8 @@
 ### 🌎 Hello, world! I'm Kat 👋
-🌜 Languages and Skills: **JavaScript, Python, HTML 5, CSS 3, Sass**
+🌜 Languages and Skills: **JavaScript, Python, HTML 5, CSS 3, Sass.**
 
 
-👩‍💻 Tools: Vscode, Microsoft Visual Studio, Git and GitHub.
+👩‍💻 Tools: **Vscode, Microsoft Visual Studio, Git and GitHub.**
 
 
 💌 Check out my portfolio [here](https://www.hellokat.io)
