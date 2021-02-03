@@ -10,7 +10,7 @@
 
 [![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:kathleenyeh1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katyeh)
-![](https://img.shields.io/github/followe/katyeh?style=for-the-badge)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=portfolio&logoColor=white)](https://www.hellokat.io)
 
 
 GitHub Stats <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="50" height="50"/>
