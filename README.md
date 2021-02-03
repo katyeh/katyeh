@@ -1,4 +1,4 @@
-### 🌎 Hello, world! I'm Kat 👋
+# 🌎 Hello, world! I'm Kat 👋
 🌜 Languages and Skills: **JavaScript, Python, HTML 5, CSS 3, Sass.**
 
 
