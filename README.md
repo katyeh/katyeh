@@ -5,7 +5,9 @@
 👩‍💻 Tools: **Vscode, Microsoft Visual Studio, Git and GitHub.**
 
 
-💌 Check out my portfolio [here](https://www.hellokat.io)
+💌 Find me around the web ⤵️
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/katyeh//) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.hellokat.io)  
 
 
 GitHub Stats <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="50" height="50"/>
